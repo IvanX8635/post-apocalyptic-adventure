@@ -20,7 +20,8 @@ You knew there had to be a way out of this
 
 ----
 Your journey will finally begin.
+
 Ready?
 
-[**Yes**]()  
-[**No**]()  
+[**Yes**](first-choice.md)  
+[**No**]You can't do anything  
