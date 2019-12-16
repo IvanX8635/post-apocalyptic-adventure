@@ -4,7 +4,9 @@ You see the zombie.
 
 The zombie goes in too bit you. 
 
-You dodge it.Having soo much expirence with a spoon. 
+You dodge it.
+
+Having soo much expirence with a spoon. 
 
 You gauged out its eye. 
 
