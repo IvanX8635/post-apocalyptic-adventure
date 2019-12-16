@@ -23,5 +23,5 @@ Your journey will finally begin.
 
 Ready?
 
-[**Yes**](first-route/first-choice.md)  
+[**Yes**](first-choice.md)  
 [**No**]You can't do anything  
