@@ -9,6 +9,6 @@ What should you do?
 
 ---  
 
-[Go inside the portal]()
+[Go inside the portal](into-portal.md)
 
 [Take the shovel and hold this dramatic sequence](taking-the-shovel.md)
