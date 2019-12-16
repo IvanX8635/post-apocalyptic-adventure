@@ -1,8 +1,8 @@
-# You have been here for years surving the leader every whim.
+You have been here for years surving the leader every whim.
 
-# The leader has devolped a liking to you. 
+The leader has devolped a liking to you. 
 
-# The leader gives you the option to rank up. 
+The leader gives you the option to rank up. 
 
 # Will you take him up on his offer?
 

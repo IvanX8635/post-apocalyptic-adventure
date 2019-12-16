@@ -1,10 +1,10 @@
 # You just got shot
 
-# They are aproching.
+They are aproching.
 
-# You remember that you act dead if there is a bear near you. 
+You remember that you act dead if there is a bear near you. 
 
-# But it realy hurts. 
+But it realy hurts. 
 
 # What will you do? 
 
