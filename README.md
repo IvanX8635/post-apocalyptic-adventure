@@ -1,5 +1,10 @@
+# Purpose 
 
+The purpose of this project was to allow Mr.Mueller to test our ablity using md to create a basic form of a repo, this tested to see how we would colaborate and work together effectivly. 
 
+# Begin
+
+[Your adventure begins](your-adventure-begins.md)
 
 
 

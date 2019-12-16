@@ -8,5 +8,7 @@ As you go searching for supplies you have encountered a fork in the road.
 
 # Which way will you go North or South. 
 
+
+[Pavel Klimenko](https://www.shutterstock.com/g/pavelk)
 # [Go North](gang.md)
 # [Go South](shelter.md)
