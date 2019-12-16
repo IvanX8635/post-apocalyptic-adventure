@@ -7,5 +7,5 @@ You know that there is one thing you have to do.
 To purify the world from the corruption.  
 First, you must set a path.
 
-[Go north](go-north.md)
-[Go south]()
+[Go north](go-north.md)   
+[Go south](go-south.md)
