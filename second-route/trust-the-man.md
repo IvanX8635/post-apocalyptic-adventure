@@ -7,5 +7,5 @@ Choose wisely
 
 _Hands over the Blade of the Elements and the Arc Of The Cosmos_
 
-[Take the Blade of the Elements]()
-[Take the Arc Of The Cosmos](arc-of-the-cosmos)
+[Take the Blade of the Elements](blade-of-the-elements.md)
+[Take the Arc Of The Cosmos](arc-of-the-cosmos.md)

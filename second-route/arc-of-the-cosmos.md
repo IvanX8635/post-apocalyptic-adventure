@@ -9,5 +9,8 @@ You attracted a lot of attention.
 
 You started as the zombie starts to crawl to you. After one swing, a beam of dark energy swept across to the approaching zombie.
 The beam instantly vaporized the adversary as the air and the terrain around it sways in distortion.  
-At this point, you said "lets gooo!"
+At this point, you said "lets gooo!"  
+---
+
+It was time for you to help out your friends nearby and survive.
 
