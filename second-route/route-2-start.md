@@ -11,4 +11,4 @@ What should you do?
 
 [Go inside the portal]()
 
-[Take the shovel and hold of this dramatic sequence](taking-the-shovel.md)
+[Take the shovel and hold this dramatic sequence](taking-the-shovel.md)

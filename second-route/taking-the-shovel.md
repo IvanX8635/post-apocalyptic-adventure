@@ -8,5 +8,5 @@ A mysterious figure that vividly represents a man appears after the door has bro
 He urges you to be calm.  
 Should you trust him? or ?  
 ---  
-[Whack him with the shovel of bright and lucious superfluous amounts of energy and happiness]()  
+[Whack him with the shovel of bright and lucious superfluous amounts of energy and happiness](he-kills.md)  
 [Trust the man](trust-the-man.md)
