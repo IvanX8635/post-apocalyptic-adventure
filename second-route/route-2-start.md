@@ -8,5 +8,7 @@ You see a military grade shovel that you have not idea where it came from or whe
 What should you do?  
 
 ---  
-(Go inside the portal)[]  
-(Take the shovel and hold of this dramatic sequence)[taking-the-shovel.md]
+
+[Go inside the portal]()
+
+[Take the shovel and hold of this dramatic sequence](taking-the-shovel.md)
