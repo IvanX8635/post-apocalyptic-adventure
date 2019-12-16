@@ -1,4 +1,12 @@
-# You just got shot, they are aproching what will you do. 
+# You just got shot
+
+# They are aproching.
+
+# You remember that you act dead if there is a bear near you. 
+
+# But it realy hurts. 
+
+# What will you do? 
 
 
 # [Cry like a baby](shot2.md)
