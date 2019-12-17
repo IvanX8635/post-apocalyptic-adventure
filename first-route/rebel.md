@@ -8,7 +8,7 @@ You see two possible wepons on the table.
 
 ![hammer](hammer.jpg)
 
-# [Hammer](hammer.md)
+#[Hammer](hammer.md)
 
 [emodpk](https://www.shutterstock.com/g/emodpk)
 
