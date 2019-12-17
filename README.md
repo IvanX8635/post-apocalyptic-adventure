@@ -1,6 +1,6 @@
 # Purpose 
 
-The purpose of this project was test our ability using md to create a fantasy in which creativity comes in, this tested to see how we would collaborate and work together effectively. It also allowed us to be more fastidious and aware of how collaboration works. In otherwords, getting ourselves to get exposed to the real world. 
+The purpose of this project was test our ability using git and the command line to create a fantasy in which creativity comes in, this tested to see how we would collaborate and work together effectively. It also allowed us to be more fastidious and aware of how collaboration works. In otherwords, getting ourselves to get exposed to the real world of opportunities and collaborations. 
 
 # Begin
 

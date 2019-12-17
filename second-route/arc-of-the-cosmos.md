@@ -1,5 +1,5 @@
 # As take the beautiful and glorious sword. You feel the power which flows through you.
-
+![Sword credit to me](arc.png)
 You whisper yourself "let's kick their ..."
 
 The brightly lit enchanted sword sparkles with magic.  
