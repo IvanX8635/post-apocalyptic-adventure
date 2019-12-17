@@ -8,7 +8,7 @@ You see two possible wepons on the table.
 
 ![hammer](hammer.jpg)
 
-#[Hammer](hammer.md)
+# [Hammer](hammer.md)
 
 [emodpk](https://www.shutterstock.com/g/emodpk)
 
@@ -16,4 +16,4 @@ You see two possible wepons on the table.
 
 [Sophia Hilmar](https://www.shutterstock.com/g/Sophia+Hilmar)
 
-# [Bucket](bucket.md)
+# [Bucket](bucket.md)git add .
