@@ -2,7 +2,7 @@
 
 He did not know you were human.
 
-He says your injuries are too server.
+He says your injuries are too severe.
 
 # He mercy kills you. 
 
