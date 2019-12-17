@@ -2,7 +2,7 @@
 
 After days of pain you lost the ablity to feel pain.
 
-You bandeged your arm and now have a nube instead of a hand. 
+You bandaged your arm and now have a stub instead of a hand. 
 
 As you go searching for supplies you have encountered a fork in the road.  
 
