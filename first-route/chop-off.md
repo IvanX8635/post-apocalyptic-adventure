@@ -9,6 +9,7 @@ As you go searching for supplies you have encountered a fork in the road.
 # Which way will you go North or South. 
 
 ![South](two-roads.jpg)
+
 [Pavel Klimenko](https://www.shutterstock.com/g/pavelk)
 
 # [Go North](gang.md)
