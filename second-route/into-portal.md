@@ -1,6 +1,6 @@
 # You chose to go into the portal.
 
-![portal](into-portal.md)  
+![portal](a-portal.png)  
 _You went into the dimension of hungry killer robots. One has found you and pounces on you_
 Thvideostudio
 
