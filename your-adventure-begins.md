@@ -1,4 +1,4 @@
-## Welcome to the post apocalyptic ecounter
+## Welcome to the post apocalyptic encounter
 
 # Story:
 
