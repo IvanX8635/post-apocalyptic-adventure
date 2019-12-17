@@ -2,7 +2,7 @@
 
 You see the zombie.
 
-The zombie goes in too bit you. 
+The zombie goes in to bite you. 
 
 You dodge it.
 

@@ -1,6 +1,6 @@
-You have been here for years surving the leader every whim.
+You have been here for years, surviving with the others.
 
-The leader has devolped a liking to you. 
+The leader has devoloped a liking to you. 
 
 The leader gives you the option to rank up. 
 

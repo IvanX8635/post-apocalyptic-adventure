@@ -1,6 +1,6 @@
 # Purpose 
 
-The purpose of this project was to allow Mr.Mueller to test our ablity using md to create a basic form of a repo, this tested to see how we would colaborate and work together effectivly. 
+The purpose of this project was test our ability using md to create a fantasy in which creativity comes in, this tested to see how we would collaborate and work together effectively. It also allowed us to be more fastidious and aware of how collaboration works. In otherwords, getting ourselves to get exposed to the real world. 
 
 # Begin
 
