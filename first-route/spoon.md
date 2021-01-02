@@ -6,7 +6,7 @@ The zombie goes in to bite you.
 
 You dodge it.
 
-Having soo much expirence with a spoon. 
+Having soo much experience with a spoon. 
 
 You gauged out its eye. 
 
