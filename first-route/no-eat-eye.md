@@ -1,8 +1,8 @@
 # You toss the eye aside. 
 
-It hits a diffrent zombie 
+It hits a different zombie 
 
-He is mad he malued your face off. 
+You aggrovated it. 
 
 # You died and became a zombie.
 
